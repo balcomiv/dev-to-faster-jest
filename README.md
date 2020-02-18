@@ -28,3 +28,17 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ## Jest Links
 - https://dev.to/dylanwatsonsoftware/make-your-angular-tests-1000-faster-by-switching-from-karma-to-jest-1n33
+
+- https://egghead.io/lessons/javascript-use-jest-s-snapshot-testing-feature?pl=testing-javascript-with-jest-a36c4074
+
+## Karma Links
+### Pluralsight
+- https://app.pluralsight.com/library/courses/angular-denver-2019-session-44/table-of-contents
+- https://app.pluralsight.com/player?course=angular-denver-2019-session-44&author=angular-denver&name=e4028724-7e56-4340-a3da-695f64e343b5&clip=0&mode=live
+
+- https://github.com/LMFinney/toh-pt6_20190613
+
+- https://github.com/smnbbrv/ngx-spec
+
+### Ninja Squad
+- https://github.com/Ninja-Squad/ngx-speculoos
